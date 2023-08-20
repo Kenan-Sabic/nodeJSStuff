@@ -74,6 +74,10 @@
 			"email": "email",
 			"password": "$2b$10$iJ.Gr.fD6wrBN5Xv7lko/etSLqJPEX0w1IfOFgZuURgVpYcHIbhqC",
 			"id": "6e9aee76-c908-4651-819e-091c89493050"
+		},
+		{
+			"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImlkIjoiNmU5YWVlNzYtYzkwOC00NjUxLTgxOWUtMDkxYzg5NDkzMDUwIn0sImlhdCI6MTY5MjUyMzIyMCwiZXhwIjoxNjkyNTI2ODIwfQ.tfE1u7AfoORSgafT1SQVooonDCzCI9v-6TPBcbIpiZU",
+			"id": "1ce207d3-0104-40dc-bfe7-5be5810fcd1f"
 		}
 	]
 }

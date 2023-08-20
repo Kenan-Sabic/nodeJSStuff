@@ -7,10 +7,11 @@ import {
   putUser,
   deleteUser,
 } from "../controller/userController.js";
+import authMiddleware from "../middleware/authMiddleware.js";
 
 const router = Router();
 
-router.get("/", getUsers);
+router.get("/",authMiddleware ,getUsers);
 
 router.get("/:id", getUserById);
 
