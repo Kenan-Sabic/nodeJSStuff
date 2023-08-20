@@ -1,0 +1,79 @@
+{
+	"users": [
+		{
+			"type": "1",
+			"name": "Test user",
+			"job": "It would be a good idea",
+			"id": "368799e8-d03e-4025-a481-721120209d9a"
+		},
+		{
+			"type": "1",
+			"name": "Test user",
+			"job": "It would be a good idea",
+			"id": "03f904ce-9315-4177-b7d6-b88fea83a0d7"
+		},
+		{
+			"type": "1",
+			"name": "Test user",
+			"job": "It would be a good idea",
+			"id": "fccad439-3371-4439-8145-630cc561bc00"
+		},
+		{
+			"type": "1",
+			"name": "Test user",
+			"job": "It would be a good idea",
+			"id": "fa7d761f-86cf-415a-991b-4d568158ec18"
+		},
+		{
+			"type": "1",
+			"name": "Test user",
+			"job": "It would be a good idea",
+			"password": "password",
+			"id": "628d969e-5e2a-4567-b06f-be1b6ecc8e6d"
+		},
+		{
+			"type": "1",
+			"name": "Test user",
+			"job": "It would be a good idea",
+			"password": "$2b$10$U1nCke00VyAEMGrvYqhXzOUBk9zdH809GT7OMOqBn9IwOrTnD4LL6",
+			"id": "ac8e88d9-fd76-4cbd-96d6-438703fd37fb"
+		},
+		{
+			"type": "1",
+			"name": "Test user",
+			"job": "It would be a good idea",
+			"password": "$2b$10$RbslbYIqLHUZUVBNgehzZeOXDVYUAGEHNBc2GJwfjP10ahZEO9EX."
+		},
+		{
+			"type": "1",
+			"name": "Test user",
+			"job": "It would be a good idea",
+			"password": "$2b$10$BZ.iA6J1miPALkBODcM7yef9T7UPZy2Ai9mi5O9h1b2Y53r1eYj66"
+		},
+		{
+			"type": "1",
+			"name": "Test user",
+			"job": "It would be a good idea",
+			"password": "$2b$10$uS8HfZw5pjcYMDcJcWsr0OmKJTns0Bcvs5YX1pRoQaYQ7R.ls0bWW"
+		},
+		{
+			"type": "1",
+			"name": "Test user",
+			"job": "It would be a good idea",
+			"password": "$2b$10$yUu0AKsCx2xVHdKYl7.q2excdMmw6d4dKXOYenI.qBISOuNFwudXK",
+			"id": "5af4797f-52c2-4e85-bba0-995f73bb5db1"
+		},
+		{
+			"type": "1",
+			"name": "Test user",
+			"job": "It would be a good idea",
+			"password": "password",
+			"id": "4bfacc31-3e84-4a23-8f7a-2546fd6d4bb0"
+		},
+		{
+			"email": "email",
+			"password": "$2b$10$iJ.Gr.fD6wrBN5Xv7lko/etSLqJPEX0w1IfOFgZuURgVpYcHIbhqC",
+			"id": "6e9aee76-c908-4651-819e-091c89493050"
+		}
+	]
+}
