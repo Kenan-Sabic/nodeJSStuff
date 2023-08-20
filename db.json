@@ -74,6 +74,11 @@
 			"email": "email",
 			"password": "$2b$10$iJ.Gr.fD6wrBN5Xv7lko/etSLqJPEX0w1IfOFgZuURgVpYcHIbhqC",
 			"id": "6e9aee76-c908-4651-819e-091c89493050"
+		},
+		{
+			"email": "email",
+			"password": "$2b$10$i98LktXGMelyJjp1F2cgVuK6MqEkwLvtdpHglRHOWS70LNYQ5KZ36",
+			"id": "d3c52ea5-e102-4252-bd65-0467326c5e43"
 		}
 	]
 }

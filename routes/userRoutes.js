@@ -7,14 +7,17 @@ import {
   putUser,
   deleteUser,
 } from "../controller/userController.js";
+import authMiddleware from "../middleware/authMiddleware.js";
 
 const router = Router();
 
-router.get("/", getUsers);
+router
+    .route("/")
+    .get(authMiddleware, getUsers)
+    .post( createUser);
 
 router.get("/:id", getUserById);
 
-router.post("/", createUser);
 
 router.patch("/:id", updateUser);
 
